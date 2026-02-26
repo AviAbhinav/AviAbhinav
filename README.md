@@ -16,31 +16,6 @@
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Machine Learning & Deep Learning  
-- Blockchain Development  
-- Data Structures and Algorithms in C++  
-- Scalable AI application deployment  
-- Open source contribution workflows  
-
----
-
-## 💻 Technical Skills
-
-**Languages:**  
-Python, C++, SQL  
-
-**AI / Data Science:**  
-pandas, NumPy, scikit-learn, Hugging Face, IBM Granite LLM  
-
-**Tools & Technologies:**  
-Git, GitHub, Jupyter Notebook, Google Colab, Gradio  
-
-**Databases:**  
-MySQL, MongoDB, PostgreSQL  
-
----
-
 ## 💞️ Open Source & Collaboration
 I am an Open Source Software Enthusiast and wish to contribute significantly to impactful open source projects.  
 I am especially interested in contributing to:
